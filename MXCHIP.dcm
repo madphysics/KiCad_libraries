@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EMW3165
+D EMW3165 WiFi enabled MCU
+F http://www.mxchip.com/d/file/2015-03-17/6708fe2d5435a7980a78e66aec369e51.pdf
+$ENDCMP
+#
+#End Doc Library

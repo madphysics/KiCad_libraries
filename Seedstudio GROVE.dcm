@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Moisture_Sensor
+D Grove - Moisture Sensor
+K grove moisture sensor
+F http://www.seeedstudio.com/depot/Grove-Moisture-Sensor-p-955.html
+$ENDCMP
+#
+#End Doc Library
