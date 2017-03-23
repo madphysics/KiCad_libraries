@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ALPS_DPDT_x2
+D ALPS SPUJ190900 DPDT Off-On 
+K alps switch
+$ENDCMP
+#
+#End Doc Library
