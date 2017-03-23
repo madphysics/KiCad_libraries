@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACJC6AH
+D Low Profile XLR 3 Pole F with 1/4" ST jack
+K xlr jack female
+F http://www.farnell.com/datasheets/1849390.pdf
+$ENDCMP
+#
+#End Doc Library
