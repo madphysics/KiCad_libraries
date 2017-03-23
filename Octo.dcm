@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+$CMP 6N138
+D 6N138S, 8-Pin SMD Single-Channel Low Input Current High Gain Split Darlington Output Optocoupler
+K Darlington
+F http://www.fairchildsemi.com/ds/6N/6N138.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TFT_2.2"_SPI
+D https://hackspark.fr/fr/2-2-serial-tft-lcd-display-spi-320x240-ili9341.html
+$ENDCMP
+#
+#End Doc Library

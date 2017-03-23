@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LS365
+D Hex Bus Driver, 3 State Out
+K TTL Buffer BUS 3State
+$ENDCMP
+#
+$CMP 74LS365_PWR
+D Hex Bus Driver, 3 State Out
+K TTL Buffer BUS 3State
+$ENDCMP
+#
+#End Doc Library
