@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74F521
+D 8-bit Comparator
+K TTL DECOD Arith
+F https://media.digikey.com/pdf/Data%20Sheets/Fairchild%20PDFs/74F521.pdf
+$ENDCMP
+#
 $CMP 74LS365
 D Hex Bus Driver, 3 State Out
 K TTL Buffer BUS 3State

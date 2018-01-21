@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS2024P
+D Power-distribution switch
+F www.ti.com/lit/ds/symlink/tps2021.pdf
+$ENDCMP
+#
+#End Doc Library
