@@ -1,0 +1,15 @@
+[submodule "teensy"]
+	path = teensy_library
+	url = https://github.com/XenGi/teensy_library
+[submodule "marsin-cherry-mx"]
+	path = marsin-cherry-mx
+	url = https://gitlab.com/marsin/kicad-libs.git
+[submodule "cherry-mx-footprints"]
+	path = cherry-mx-footsymbols
+	url = https://github.com/BathroomEpiphanies/KiCAD-Keyboard-Tutorial
+[submodule "3dmodels/cherry-mx-keycaps"]
+	path = 3dmodels/cherry-mx-keycaps
+	url = https://github.com/ConstantinoSchillebeeckx/cherry-mx-keycaps
+[submodule "teensy.pretty"]
+	path = teensy.pretty
+	url = https://github.com/XenGi/teensy.pretty
