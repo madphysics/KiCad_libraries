@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LF347
+D Wide Bandwidth Quad J FET Input Operational Amplifiers
+F http://www.ti.com/lit/ds/symlink/lf347-n.pdf
+$ENDCMP
+#
 $CMP TPS2024P
 D Power-distribution switch
 F www.ti.com/lit/ds/symlink/tps2021.pdf

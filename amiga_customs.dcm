@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CIA8520
+F https://www.amigawiki.org/doku.php?id=de:parts:cia
+$ENDCMP
+#
+$CMP PAULA
+D Paula 8364
+K paula,8364,amiga
+F https://www.amigawiki.org/doku.php?id=de:parts:paula
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LS260
+D Dual 5-input NAND
+K TTL Nand5
+F http://www.ti.com/lit/gpn/sn74LS260
+$ENDCMP
+#
+#End Doc Library
