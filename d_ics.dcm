@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PST518B
+D Monolithic reset IC
+F http://www.amigawiki.org/lib/exe/fetch.php?media=de:service:upgrades:pst518b_mitsumi_datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
