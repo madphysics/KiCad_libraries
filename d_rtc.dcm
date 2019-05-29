@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MSM6242
+D Direct Bus Connected CMOS Real Time Clock/Calendar
+F https://pdf1.alldatasheet.com/datasheet-pdf/view/11259/OKI/MSM6242B.html
+$ENDCMP
+#
+$CMP MSM6242B
+D Direct Bus Connected CMOS Real Time Clock/Calendar
+$ENDCMP
+#
+#End Doc Library

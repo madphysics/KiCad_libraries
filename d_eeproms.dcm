@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP XX4256-15
-D 262,144-Word x 4-bit DYNAMIC RAM
+$CMP 62402
+D 128K x 16 ROM
 $ENDCMP
 #
 #End Doc Library
