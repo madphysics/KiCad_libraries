@@ -1,4 +1,4 @@
-(module DSUB-23_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm (layer F.Cu) (tedit 5D04FA60)
+(module DSUB-23_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm (layer F.Cu) (tedit 5D04FAFF)
   (descr "25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf")
   (tags "25-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm")
   (fp_text reference REF** (at 16.62 -2.8) (layer F.SilkS)
@@ -69,8 +69,8 @@
   (pad 21 thru_hole circle (at 23.545 2.84) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask))
   (pad 22 thru_hole circle (at 26.315 2.84) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask))
   (pad 23 thru_hole circle (at 29.085 2.84) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask))
-  (pad 0 thru_hole circle (at -6.93 1.42) (size 4 4) (drill 3.2) (layers *.Cu *.Mask))
-  (pad 0 thru_hole circle (at 37.07 1.42) (size 4 4) (drill 3.2) (layers *.Cu *.Mask))
+  (pad "" thru_hole circle (at -6.93 1.42) (size 4 4) (drill 3.2) (layers *.Cu *.Mask))
+  (pad "" thru_hole circle (at 37.07 1.42) (size 4 4) (drill 3.2) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Connector_Dsub.3dshapes/DSUB-25_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
