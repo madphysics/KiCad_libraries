@@ -4,4 +4,16 @@ $CMP MJ-188LP-8
 F https://www.farnell.com/datasheets/21845.pdf
 $ENDCMP
 #
+$CMP VG64_VME_3Rows_3x32_J1_P1
+D VG64_VME_3Rows_3x32 J1/P1
+K connector
+F ~
+$ENDCMP
+#
+$CMP VG64_VME_3Rows_3x32_J2_P2
+D VG64_VME_3Rows_3x32 J2/P2
+K connector
+F ~
+$ENDCMP
+#
 #End Doc Library
