@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MK66FX1M0VLQ18
+D 180 MHz ARM Cortex-M4F Microcontroller
+F https://www.nxp.com/docs/en/data-sheet/K66P144M180SF5V2.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LF351
+D Wide bandwidth single JFET operational amplifier, SOIC-8
+K Single OpAmp JFET
+F https://www.st.com/resource/en/datasheet/lf351.pdf
+$ENDCMP
+#
+#End Doc Library
